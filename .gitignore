@@ -1,4 +1,2 @@
-/venv/bin/
-/venv/include/
-/venv/lib/
+
 /geckodriver.log
